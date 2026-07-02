@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "GAMEHIDI_7.aternos.me:62729",
+    "port": 62729,
     "version": "",
     "try-creative": false
   },
